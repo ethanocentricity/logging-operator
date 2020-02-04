@@ -17,6 +17,7 @@
 | kafka | *output.KafkaOutputConfig | No | - |  |
 | cloudwatch | *output.CloudWatchOutput | No | - |  |
 | kinesisStream | *output.KinesisStreamOutputConfig | No | - |  |
+| lumberjack | *output.LumberjackOutput | No | - |  |
 ### OutputStatus
 #### OutputStatus defines the observed state of Output
 
